@@ -1,6 +1,6 @@
 <h3>🙋🏻‍♀️ Hi, I’m Miliexe !</h3>
 
-✏ Full-Stack Developer 🖥 - #OpenToWork ✔
+✏ Full-Stack Developer 🖥
 
 <div align="center">
   <a href="https://github.com/Miliexe">
