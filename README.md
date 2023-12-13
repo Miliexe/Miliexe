@@ -21,7 +21,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=React&logoColor=00ffff" target="_blank"></a> 
 
     
-  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
+  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
   
   ![](https://komarev.com/ghpvc/?username=Miliexe&label=thanks+for+visiting&style=for-the-badge&color=000000)
 
