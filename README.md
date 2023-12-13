@@ -20,14 +20,8 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" target="_blank"></a> 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=React&logoColor=00ffff" target="_blank"></a> 
 
-
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
     
-  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Miliexe/Miliexe/blob/output/github-contribution-grid-snake.svg?palette=github-dark)
   
   ![](https://komarev.com/ghpvc/?username=Miliexe&label=thanks+for+visiting&style=for-the-badge&color=000000)
 
